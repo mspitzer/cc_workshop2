@@ -1,23 +1,5 @@
 ---
-title: "python_tutorial"
-knit: (function(input_file, encoding) {
-  out_dir <- 'docs';
-  rmarkdown::render(input_file,
- encoding=encoding,
- output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
-author: "Markus Spitzer"
-date: "2/24/2020"
-output: html_document
+title: "About This Website"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## Python Tutorial
-
-This is a Python tutorial.
-
-You will learn the basics of Python here.
-All relevant links will be added here. 
-
+More about this website.
